@@ -6,6 +6,7 @@
   - Faire un bandeau pour changer de region, changer de langue (Paul)
   - Faire apparaitre un petit rectangle a côté de la carte ou l'aeroport à été selectionné (Paul)
   - Possibilité de demander les infos d'un aeroport choisi (Alex)
+  - Zoomer/Dézoomer/Se déplacer sur la carte (Alex)
   
 2/ Backend:
   - Support de l'application (Alex)

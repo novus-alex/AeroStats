@@ -12,5 +12,3 @@ def start_ui():
     root = Tk()
     UI(root).pack(side="top", fill="both", expand=True)
     root.mainloop()
-
-start_ui()

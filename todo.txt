@@ -1,1 +1,13 @@
+## To Do List
 
+1/ Interface:
+  - Integration d'une carte aeronautique (Paul)
+  - Faire en sorte que les aeroports/aerodromes soient cliquable (Alex)
+  - Faire un bandeau pour changer de region, changer de langue (Paul)
+  - Faire apparaitre un petit rectangle a côté de la carte ou l'aeroport à été selectionné (Paul)
+  - Possibilité de demander les infos d'un aeroport choisi (Alex)
+  
+2/ Backend:
+  - Support de l'application (Alex)
+  - Requetes de données des metar/taf à un aeroport choisi (Alex)
+  - Suivi gps de la carte ? (Alex)
